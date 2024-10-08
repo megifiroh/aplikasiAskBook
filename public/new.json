@@ -1,0 +1,1340 @@
+[
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e37b" },
+      "author": "Tere Liye",
+      "title": "Hafalan Shalat Delisa",
+      "genre": "Drama",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=hafalan%20shalat%20delisa",
+      "abstract": "Delisa, seorang gadis kecil yang penuh semangat, belajar menghafal bacaan shalat. Kisahnya dipenuhi dengan pelajaran hidup yang menginspirasi, terutama saat bencana tsunami melanda dan mengubah segalanya.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Tere Liye adalah seorang penulis Indonesia terkenal dengan karya-karya fiksi yang inspiratif dan emosional. Beberapa bukunya termasuk 'Hafalan Shalat Delisa', 'Rindu', dan 'Pulang'.",
+      "details": {
+        "total_pages": 204,
+        "age_range": "12 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-602-03-0263-1",
+        "publication_date": "Maret 2010",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e37c" },
+      "author": "Andrea Hirata",
+      "title": "Laskar Pelangi",
+      "genre": "Drama",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=laskar%20pelangi",
+      "abstract": "Sekelompok anak dari sebuah desa miskin di Belitung berjuang untuk mendapatkan pendidikan. Persahabatan, mimpi, dan kegigihan mereka menjadi inspirasi bagi banyak orang.",
+      "image_url": "http://localhost:3001/book_img/laskar_pelangi_book_img.jpg",
+      "price": "Rp. 84.150",
+      "author_bio": "Andrea Hirata adalah penulis Indonesia yang dikenal melalui trilogi 'Laskar Pelangi'. Karya-karyanya sering kali mengangkat tema pendidikan dan perjuangan.",
+      "details": {
+        "total_pages": 530,
+        "age_range": "15 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-979-22-2891-8",
+        "publication_date": "September 2008",
+        "publisher": "Bentang Pustaka"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e37d" },
+      "author": "Ahmad Fuadi",
+      "title": "Negeri 5 Menara",
+      "genre": "Drama",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=negeri%205%20menara",
+      "abstract": "Kisah perjalanan enam santri dari berbagai daerah di Indonesia yang belajar di sebuah pesantren. Mimpi dan harapan mereka tergantung pada satu mantra: Man Jadda Wajada, siapa yang bersungguh-sungguh akan berhasil.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Ahmad Fuadi adalah penulis dan jurnalis Indonesia yang terkenal dengan trilogi 'Negeri 5 Menara'. Karyanya banyak mengangkat tema pendidikan dan spiritualitas.",
+      "details": {
+        "total_pages": 336,
+        "age_range": "15 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-979-22-3297-5",
+        "publication_date": "Januari 2009",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e37e" },
+      "author": "Dee Lestari",
+      "title": "Supernova",
+      "genre": "Fiksi Ilmiah",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=supernova%20dee%20lestari",
+      "abstract": "Supernova adalah sebuah seri novel yang menggabungkan berbagai genre seperti romansa, sains, dan filosofi. Ceritanya kompleks dan mendalam, menyentuh berbagai aspek kehidupan dan eksistensi manusia.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Dee Lestari adalah penulis dan musisi Indonesia yang dikenal melalui seri 'Supernova'. Karya-karyanya sering kali mencampurkan elemen fiksi ilmiah dan filosofi.",
+      "details": {
+        "total_pages": 536,
+        "age_range": "18 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-979-22-2486-3",
+        "publication_date": "Oktober 2001",
+        "publisher": "Bentang Pustaka"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e37f" },
+      "author": "Pidi Baiq",
+      "title": "Dilan: Dia adalah Dilanku Tahun 1990",
+      "genre": "Romansa",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=dilan%201990",
+      "abstract": "Kisah cinta remaja antara Dilan dan Milea di Bandung tahun 1990. Dengan gaya bahasa yang unik dan alur cerita yang mengalir, novel ini berhasil memikat hati banyak pembaca.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Pidi Baiq adalah penulis Indonesia yang dikenal melalui novel-novel romansa seperti 'Dilan'. Ia juga seorang musisi dan aktivis.",
+      "details": {
+        "total_pages": 320,
+        "age_range": "15 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-602-03-1191-5",
+        "publication_date": "Juni 2014",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e380" },
+      "author": "Habiburrahman El Shirazy",
+      "title": "Ayat-Ayat Cinta",
+      "genre": "Religi",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=ayat-ayat%20cinta",
+      "abstract": "Fahri, seorang mahasiswa Indonesia yang kuliah di Mesir, menghadapi berbagai tantangan hidup dan cinta. Cerita ini menyajikan nilai-nilai Islami dalam konteks kehidupan sehari-hari.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Habiburrahman El Shirazy adalah penulis Indonesia yang dikenal dengan novel-novel religiusnya seperti 'Ayat-Ayat Cinta'. Karyanya banyak mengangkat tema spiritual dan nilai-nilai Islam.",
+      "details": {
+        "total_pages": 430,
+        "age_range": "18 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-979-22-2788-8",
+        "publication_date": "Januari 2004",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e381" },
+      "author": "A. Fuadi",
+      "title": "Ranah 3 Warna",
+      "genre": "Drama",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=ranah%203%20warna",
+      "abstract": "Melanjutkan kisah Alif di Negeri 5 Menara, Ranah 3 Warna menceritakan perjuangannya meraih mimpi dengan latar belakang tiga negara: Indonesia, Kanada, dan Spanyol. Penuh inspirasi dan motivasi.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "A. Fuadi adalah penulis Indonesia yang dikenal dengan trilogi 'Negeri 5 Menara' dan 'Ranah 3 Warna'. Karyanya banyak mengangkat tema pendidikan dan motivasi.",
+      "details": {
+        "total_pages": 376,
+        "age_range": "15 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-979-22-4378-0",
+        "publication_date": "Oktober 2012",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+      "_id": { "$oid": "66acb4fb4426d6f29785e382" },
+      "author": "Asma Nadia",
+      "title": "Assalamualaikum, Beijing!",
+      "genre": "Romansa",
+      "purchase_link": "https://www.tokopedia.com/search?st=product&q=assalamualaikum%2c%20beijing",
+      "abstract": "Kisah seorang perempuan Indonesia yang tinggal di Beijing dan menghadapi berbagai tantangan budaya serta cinta. Novel ini mengisahkan pencarian jati diri dan adaptasi dalam kehidupan baru.",
+      "image_url": "",
+      "price": "Rp. 84.150",
+      "author_bio": "Asma Nadia adalah penulis Indonesia yang dikenal dengan karya-karya romansa dan motivasi. Beberapa buku terkenalnya termasuk 'Assalamualaikum, Beijing!' dan 'Sang Pencerah'.",
+      "details": {
+        "total_pages": 336,
+        "age_range": "15 tahun ke atas",
+        "format": "Paperback",
+        "isbn": "978-602-03-0691-7",
+        "publication_date": "Juni 2013",
+        "publisher": "Gramedia Pustaka Utama"
+      }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e383" },
+        "author": "Ahmad Tohari",
+        "title": "Ronggeng Dukuh Paruk",
+        "genre": "Sastra",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=ronggeng%20dukuh%20paruk",
+        "abstract": "Cerita tentang Srintil, seorang penari ronggeng yang menjadi simbol kebangkitan Dukuh Paruk, sebuah desa kecil yang miskin. Novel ini menggambarkan tradisi, budaya, dan realitas sosial masyarakat desa.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Ahmad Tohari adalah seorang penulis Indonesia yang dikenal karena karyanya yang menggambarkan kehidupan masyarakat desa di Jawa Tengah. Ia lahir pada 13 Februari 1935 di Banyumas, Jawa Tengah.",
+        "details_book": {
+            "total_pages": 291,
+            "age_range": "16+",
+            "format_book": "Kertas",
+            "ISBN": "978-979-333-297-5",
+            "publication_date": "2000",
+            "publisher": "Pustaka Jaya"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e384" },
+        "author": "Pramoedya Ananta Toer",
+        "title": "Bumi Manusia",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=bumi%20manusia",
+        "abstract": "Novel pertama dari Tetralogi Buru yang mengisahkan Minke, seorang pribumi cerdas dan berpendidikan Belanda, yang berjuang melawan penindasan kolonial di Indonesia. Kisah yang kuat dan menginspirasi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Pramoedya Ananta Toer adalah salah satu penulis terkemuka Indonesia yang lahir pada 6 Februari 1925 di Blora, Jawa Tengah. Ia dikenal dengan karya-karyanya yang menggambarkan perjuangan melawan kolonialisme dan ketidakadilan sosial.",
+        "details_book": {
+          "total_pages": 452,
+          "age_range": "17+",
+          "format_book": "Kertas",
+          "ISBN": "978-979-777-141-2",
+          "publication_date": "1980",
+          "publisher": "Pustaka Jaya"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e385" },
+        "author": "Tere Liye",
+        "title": "Rindu",
+        "genre": "Religi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=rindu%20tere%20liye",
+        "abstract": "Perjalanan haji pada tahun 1938 menjadi latar belakang cerita ini. Kisah tentang kerinduan yang mendalam dan perjuangan hidup lima orang dalam menunaikan ibadah haji. Novel ini sarat dengan nilai-nilai keislaman.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Tere Liye, lahir pada 21 Mei 1979, adalah penulis Indonesia yang terkenal dengan novel-novelnya yang memadukan unsur religi, fiksi, dan filosofi. Ia dikenal karena gaya penulisannya yang emotif dan inspiratif.",
+        "details_book": {
+          "total_pages": 394,
+          "age_range": "15+",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-3155-8",
+          "publication_date": "2015",
+          "publisher": "Republika"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e386" },
+        "author": "Dee Lestari",
+        "title": "Perahu Kertas",
+        "genre": "Romansa",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=perahu%20kertas",
+        "abstract": "Kugy dan Keenan, dua orang yang berbeda latar belakang dan mimpi, bertemu dan menjalin persahabatan yang kemudian berkembang menjadi cinta. Novel ini menggambarkan perjalanan mereka mengejar mimpi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Dee Lestari adalah penulis dan penyanyi asal Indonesia yang lahir pada 27 Januari 1976. Ia dikenal dengan karya-karya fiksi yang romantis dan emosional, serta kontribusinya dalam dunia musik.",
+        "details_book": {
+          "total_pages": 396,
+          "age_range": "13+",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-0904-5",
+          "publication_date": "2009",
+          "publisher": "Republika"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e387" },
+        "author": "Eka Kurniawan",
+        "title": "Cantik Itu Luka",
+        "genre": "Sastra",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=cantik%20itu%20luka",
+        "abstract": "Novel yang kaya akan unsur magis dan realisme, menceritakan kehidupan Dewi Ayu, seorang pelacur di kota fiktif Halimunda. Ceritanya penuh dengan liku-liku sejarah, cinta, dan tragedi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Eka Kurniawan adalah penulis Indonesia yang lahir pada 26 November 1975 di Banyuwangi, Jawa Timur. Ia dikenal dengan karyanya yang menggabungkan unsur magis dengan realisme sosial.",
+        "details_book": {
+          "total_pages": 488,
+          "age_range": "18+",
+          "format_book": "Kertas",
+          "ISBN": "978-979-1220-22-1",
+          "publication_date": "2002",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e388" },
+        "author": "Hirata",
+        "title": "Sang Pemimpi",
+        "genre": "Drama",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=sang%20pemimpi",
+        "abstract": "Melanjutkan cerita Laskar Pelangi, Sang Pemimpi mengisahkan tentang mimpi dan perjuangan Ikal, Arai, dan Jimbron dalam menggapai cita-cita mereka, meski berasal dari latar belakang yang penuh keterbatasan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Hirata adalah nama pena dari Andrea Hirata, penulis Indonesia yang terkenal dengan seri novel 'Laskar Pelangi'. Lahir pada 24 Oktober 1967 di Belitung, ia menulis tentang kehidupan dan perjuangan masyarakat Belitung.",
+        "details_book": {
+          "total_pages": 428,
+          "age_range": "15+",
+          "format_book": "Kertas",
+          "ISBN": "978-979-22-5271-4",
+          "publication_date": "2009",
+          "publisher": "Bentang Pustaka"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e389" },
+        "author": "Ahmad Tohari",
+        "title": "Lintang Kemukus Dini Hari",
+        "genre": "Sastra",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=lintang%20kemukus%20dini%20hari",
+        "abstract": "Novel ini menceritakan perjuangan seorang perempuan desa, Srintil, dalam menghadapi berbagai tantangan hidup dan mempertahankan martabatnya di tengah masyarakat yang penuh dengan ketidakadilan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Ahmad Tohari adalah penulis yang dikenal dengan karyanya yang menggambarkan kehidupan masyarakat desa di Jawa Tengah. Lahir pada 13 Februari 1935 di Banyumas, ia menulis tentang berbagai aspek kehidupan masyarakat.",
+        "details_book": {
+          "total_pages": 287,
+          "age_range": "16+",
+          "format_book": "Kertas",
+          "ISBN": "978-979-3771-33-1",
+          "publication_date": "2001",
+          "publisher": "Pustaka Jaya"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e38a" },
+        "author": "Pramoedya Ananta Toer",
+        "title": "Anak Semua Bangsa",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=anak%20semua%20bangsa",
+        "abstract": "Kelanjutan dari Bumi Manusia, novel ini melanjutkan kisah perjuangan Minke dalam menghadapi ketidakadilan sosial dan kolonialisme di Indonesia. Ceritanya menggugah dan penuh dengan semangat perjuangan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Pramoedya Ananta Toer adalah penulis terkenal Indonesia yang lahir pada 6 Februari 1925. Ia dikenal dengan karya-karya yang menggambarkan perjuangan melawan kolonialisme dan ketidakadilan sosial.",
+        "details_book": {
+          "total_pages": 460,
+          "age_range": "17+",
+          "format_book": "Kertas",
+          "ISBN": "978-979-733-674-7",
+          "publication_date": "1981",
+          "publisher": "Pustaka Jaya"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e38b" },
+        "author": "Asma Nadia",
+        "title": "Catatan Hati Seorang Istri",
+        "genre": "Religi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=catatan%20hati%20seorang%20istri",
+        "abstract": "Kumpulan cerita dan refleksi dari seorang istri yang menghadapi berbagai tantangan dalam kehidupan pernikahan. Novel ini memberikan pandangan mendalam tentang cinta, kesetiaan, dan pengorbanan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Asma Nadia adalah penulis dan jurnalis Indonesia yang lahir pada 15 Januari 1972 di Jakarta. Ia dikenal dengan karya-karyanya yang sering mengangkat tema keluarga dan agama.",
+        "details_book": {
+          "total_pages": 284,
+          "age_range": "15+",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-3557-7",
+          "publication_date": "2010",
+          "publisher": "Republika"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e38c" },
+        "author": "Agustinus Wibowo",
+        "title": "Selimut Debu",
+        "genre": "Travel",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=selimut%20debu",
+        "abstract": "Agustinus Wibowo berbagi pengalamannya dalam perjalanan melintasi Asia Tengah dan Afghanistan. Kisah ini penuh dengan petualangan, budaya, dan refleksi tentang makna kehidupan dan identitas.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Agustinus Wibowo adalah seorang penulis dan jurnalis Indonesia yang lahir pada 26 September 1978 di Jakarta. Ia dikenal dengan buku-bukunya yang mengisahkan perjalanan dan pengalaman di berbagai belahan dunia.",
+        "details_book": {
+          "total_pages": 336,
+          "age_range": "16+",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-3195-1",
+          "publication_date": "2012",
+          "publisher": "Republika"
+        }
+    },
+    {
+        "_id": { "$oid": "66acb4fb4426d6f29785e38d" },
+        "author": "Fira Basuki",
+        "title": "Pintu",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=pintu%20fira%20basuki",
+        "abstract": "Novel ini mengisahkan tentang pencarian jati diri dan penerimaan diri melalui perjalanan hidup seorang perempuan bernama Alana. Dengan narasi yang mendalam, novel ini menggali berbagai lapisan emosi manusia.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Fira Basuki adalah penulis Indonesia yang lahir pada 14 Agustus 1982. Ia dikenal dengan karya-karyanya yang menggali tema psikologi dan hubungan antarmanusia.",
+        "details_book": {
+          "total_pages": 312,
+          "age_range": "15+",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-3640-2",
+          "publication_date": "2014",
+          "publisher": "Republika"
+        }
+    },
+    {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e38e"
+        },
+        "author": "Iwan Setyawan",
+        "title": "9 Summers 10 Autumns",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=9%20summers%2010%20autumns",
+        "abstract": "Kisah nyata perjalanan hidup Iwan Setyawan, dari seorang anak sopir angkot di kota Batu, Jawa Timur, hingga menjadi seorang eksekutif di New York City. Penuh inspirasi dan motivasi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Iwan Setyawan adalah penulis dan pengusaha asal Indonesia. Ia dikenal karena buku-bukunya yang menceritakan perjalanan hidup dari latar belakangnya sebagai seorang anak sopir angkot hingga sukses di dunia internasional. Iwan lulus dari Universitas Brawijaya dan sempat bekerja di perusahaan Nielsen di New York.",
+        "details": {
+          "total_pages": "216",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-979-22-7288-7",
+          "publication_date": "2011",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e38f"
+        },
+        "author": "Dewi Lestari",
+        "title": "Rectoverso",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=rectoverso",
+        "abstract": "Kumpulan cerita pendek yang menggabungkan narasi fiksi dengan lirik lagu. Setiap cerita dalam Rectoverso menawarkan sudut pandang unik tentang cinta, kehilangan, dan penemuan diri.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Dewi 'Dee' Lestari adalah penulis, penyanyi, dan pencipta lagu Indonesia. Terkenal dengan novel-novel seperti Supernova dan Filosofi Kopi. Dee adalah lulusan Hubungan Internasional Universitas Parahyangan dan memulai karirnya sebagai anggota grup vokal RSD.",
+        "details": {
+          "total_pages": "164",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-979-22-5295-7",
+          "publication_date": "2008",
+          "publisher": "Bentang Pustaka"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e390"
+        },
+        "author": "Tere Liye",
+        "title": "Pulang",
+        "genre": "Drama",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=pulang%20tere%20liye",
+        "abstract": "Pulang menceritakan perjalanan Bujang yang tumbuh di dunia mafia dan harus menemukan jalan pulang ke keluarganya. Novel ini penuh dengan aksi, drama, dan nilai-nilai kehidupan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Tere Liye adalah seorang penulis Indonesia yang dikenal dengan karya-karyanya yang beragam, dari fiksi hingga inspirasi. Dengan gaya bercerita yang mendalam, Tere Liye berhasil menarik pembaca dari berbagai kalangan.",
+        "details": {
+          "total_pages": "400",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-1052-2",
+          "publication_date": "2015",
+          "publisher": "Republika Penerbit"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e391"
+        },
+        "author": "Ayu Utami",
+        "title": "Saman",
+        "genre": "Sastra",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=saman%20ayu%20utami",
+        "abstract": "Novel ini mengangkat tema tentang cinta, seksualitas, dan politik di Indonesia. Saman, seorang mantan pastor, menjadi simbol perlawanan terhadap ketidakadilan dan penindasan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Ayu Utami adalah penulis dan jurnalis Indonesia yang dikenal dengan karya-karyanya yang berani mengangkat tema-tema tabu. Ia juga merupakan salah satu pendiri majalah kebudayaan Kalam. Lulus dari Fakultas Sastra Universitas Indonesia.",
+        "details": {
+          "total_pages": "238",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-979-97312-2-5",
+          "publication_date": "1998",
+          "publisher": "Kepustakaan Populer Gramedia"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e392"
+        },
+        "author": "Leila S. Chudori",
+        "title": "Pulang",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=pulang%20leila%20s.%20chudori",
+        "abstract": "Kisah tentang Dimas Suryo, seorang eksil politik yang harus meninggalkan Indonesia akibat peristiwa 1965. Novel ini menggambarkan kehidupan di pengasingan dan kerinduan akan tanah air.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Leila S. Chudori adalah penulis dan jurnalis Indonesia yang dikenal dengan karya-karya fiksinya yang kuat dan penuh dengan kritik sosial. Ia bekerja sebagai jurnalis di majalah Tempo dan telah menerima berbagai penghargaan sastra.",
+        "details": {
+          "total_pages": "464",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-1246-5",
+          "publication_date": "2012",
+          "publisher": "Kepustakaan Populer Gramedia"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e393"
+        },
+        "author": "Fira Basuki",
+        "title": "Atap",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=atap%20fira%20basuki",
+        "abstract": "Cerita tentang empat sahabat yang menjalani kehidupan masing-masing dengan penuh liku. Mereka sering bertemu di sebuah atap untuk berbagi cerita, mimpi, dan harapan. Kisah ini penuh dengan kehangatan persahabatan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Fira Basuki adalah seorang penulis dan editor di Indonesia. Ia dikenal dengan gaya penulisannya yang ringan namun bermakna. Selain menulis novel, Fira juga aktif sebagai editor di beberapa majalah.",
+        "details": {
+          "total_pages": "216",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-979-22-5437-1",
+          "publication_date": "2012",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e394"
+        },
+        "author": "Mira W.",
+        "title": "Di Sini Cinta Pertama Kali Bersemi",
+        "genre": "Romansa",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=di%20sini%20cinta%20pertama%20kali%20bersemi",
+        "abstract": "Kisah cinta pertama yang terjadi di sebuah sekolah menengah atas. Novel ini menggambarkan manis pahitnya cinta pertama dan dinamika remaja dalam mencari jati diri.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Mira W. adalah penulis Indonesia yang terkenal dengan novel-novel romantis dan drama. Karya-karyanya sering mengangkat tema cinta dan kehidupan wanita. Mira W. telah menerbitkan puluhan novel dan dikenal sebagai salah satu penulis populer di Indonesia.",
+        "details": {
+          "total_pages": "288",
+          "age_range": "Remaja",
+          "format_book": "Kertas",
+          "ISBN": "978-602-03-1402-4",
+          "publication_date": "2015",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e395"
+        },
+        "author": "H. G. Wells",
+        "title": "The Time Machine",
+        "genre": "Fiksi Ilmiah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=the%20time%20machine%20h.g.%20wells",
+        "abstract": "Sebuah novel klasik fiksi ilmiah yang menceritakan tentang seorang ilmuwan yang menciptakan mesin waktu dan melakukan perjalanan ke masa depan. Petualangan ini membuka mata tentang masa depan manusia.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "H. G. Wells adalah seorang penulis Inggris yang dikenal sebagai 'bapak fiksi ilmiah'. Karya-karyanya seperti 'The War of the Worlds' dan 'The Invisible Man' telah menjadi inspirasi bagi banyak karya fiksi ilmiah modern.",
+        "details": {
+          "total_pages": "118",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-014-143997-6",
+          "publication_date": "1895",
+          "publisher": "Heinemann"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e396"
+        },
+        "author": "Dewi Lestari",
+        "title": "Madre",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=madre%20dee%20lestari",
+        "abstract": "Kisah tentang seorang pemuda bernama Tansen yang mewarisi bisnis roti tradisional dari kakeknya. Novel ini mengangkat tema tentang warisan budaya, keluarga, dan pencarian jati diri.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Dewi 'Dee' Lestari adalah penulis, penyanyi, dan pencipta lagu Indonesia. Terkenal dengan novel-novel seperti Supernova dan Filosofi Kopi. Dee adalah lulusan Hubungan Internasional Universitas Parahyangan dan memulai karirnya sebagai anggota grup vokal RSD.",
+        "details": {
+          "total_pages": "200",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-602-8811-85-7",
+          "publication_date": "2011",
+          "publisher": "Bentang Pustaka"
+        }
+    },
+    {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e397"
+        },
+        "author": "Andrea Hirata",
+        "title": "Cinta Dalam Gelas",
+        "genre": "Drama",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=cinta%20dalam%20gelas",
+        "abstract": "Kelanjutan dari cerita Laskar Pelangi, novel ini mengisahkan perjuangan seorang perempuan bernama Maryamah yang menghadapi berbagai tantangan dalam hidupnya. Kisahnya penuh inspirasi dan semangat.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Andrea Hirata adalah seorang penulis Indonesia yang dikenal dengan tetralogi Laskar Pelangi, yang menjadi fenomena di Indonesia dan telah diterjemahkan ke berbagai bahasa. Andrea adalah lulusan dari Universitas Indonesia dan Université de Paris, Prancis.",
+        "details": {
+          "total_pages": "312",
+          "age_range": "Dewasa",
+          "format_book": "Kertas",
+          "ISBN": "978-979-1227-82-5",
+          "publication_date": "2010",
+          "publisher": "Bentang Pustaka"
+        }
+    },
+    {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e398"
+        },
+        "author": "Pramoedya Ananta Toer",
+        "title": "Jejak Langkah",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=jejak%20langkah",
+        "abstract": "Bagian ketiga dari Tetralogi Buru, mengisahkan perjalanan Minke yang semakin dalam terlibat dalam pergerakan nasional Indonesia. Novel ini menggambarkan perjuangan dan pengorbanan dalam meraih kemerdekaan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Pramoedya Ananta Toer adalah seorang penulis Indonesia terkenal yang dikenal karena karya-karyanya yang menggambarkan sejarah dan kehidupan sosial Indonesia. Ia lahir pada 6 Februari 1925 di Blora, Jawa Tengah, dan menghabiskan sebagian besar hidupnya menulis, meskipun menghadapi berbagai penindasan politik. Karya-karyanya termasuk tetralogi Buru yang terkenal, di antaranya adalah 'Bumi Manusia', 'Anak Semua Bangsa', 'Jejak Langkah', dan 'Rumah Kaca'.",
+        "details": {
+          "total_pages": 539,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789799731242",
+          "publication_date": "1 Januari 1985",
+          "publisher": "Hasta Mitra"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e399"
+        },
+        "author": "Eka Kurniawan",
+        "title": "Seperti Dendam, Rindu Harus Dibayar Tuntas",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=seperti%20dendam%20rindu%20harus%20dibayar%20tuntas",
+        "abstract": "Novel ini mengisahkan kehidupan Ajo Kawir, seorang pemuda yang kehilangan kejantanannya dan bagaimana ia berusaha mencari makna hidup dan cinta sejati. Ceritanya penuh dengan aksi dan refleksi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Eka Kurniawan adalah seorang penulis Indonesia yang dikenal karena gaya penulisannya yang unik dan tema-tema yang mengangkat kehidupan sosial di Indonesia. Lahir pada 28 November 1975 di Tasikmalaya, Jawa Barat, karya-karyanya sering kali menggambarkan realitas keras yang dihadapi oleh masyarakat. Beberapa novelnya yang terkenal termasuk 'Cantik Itu Luka' dan 'Lelaki Harimau'.",
+        "details": {
+          "total_pages": 344,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9786020301753",
+          "publication_date": "1 April 2014",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39a"
+        },
+        "author": "Leila S. Chudori",
+        "title": "Laut Bercerita",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=laut%20bercerita",
+        "abstract": "Kisah tentang aktivis yang hilang pada era Orde Baru di Indonesia. Novel ini menggambarkan perjuangan dan pengorbanan para aktivis yang berjuang demi keadilan dan kebebasan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Leila S. Chudori adalah seorang penulis, jurnalis, dan editor Indonesia. Lahir pada 12 Desember 1962, Leila dikenal dengan karya-karyanya yang mengangkat tema sejarah, sosial, dan politik di Indonesia. Beberapa novelnya yang terkenal adalah 'Pulang' dan 'Laut Bercerita', yang keduanya mendapat banyak pujian dan penghargaan.",
+        "details": {
+          "total_pages": 379,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9786024246944",
+          "publication_date": "1 Oktober 2017",
+          "publisher": "Kepustakaan Populer Gramedia"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39b"
+        },
+        "author": "Tere Liye",
+        "title": "Daun yang Jatuh Tak Pernah Membenci Angin",
+        "genre": "Romansa",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=daun%20yang%20jatuh%20tak%20pernah%20membenci%20angin",
+        "abstract": "Kisah tentang Tania dan Danar yang menjalani kehidupan penuh liku. Mereka belajar menerima takdir dan menemukan cinta sejati dalam perjalanan hidup mereka.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Tere Liye adalah seorang penulis Indonesia yang sangat produktif, terkenal dengan novel-novelnya yang menggugah emosi pembaca. Lahir pada 21 Mei 1979, Tere Liye telah menulis lebih dari 30 buku yang mencakup berbagai genre, dari romansa hingga fiksi sejarah.",
+        "details": {
+          "total_pages": 264,
+          "age_range": "16+",
+          "format_book": "Paperback",
+          "ISBN": "9786029481364",
+          "publication_date": "1 Januari 2010",
+          "publisher": "Mahaka Publishing"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39c"
+        },
+        "author": "Asma Nadia",
+        "title": "Bunda: Kisah Cinta 2 Kodi",
+        "genre": "Religi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=bunda%20kisah%20cinta%202%20kodi",
+        "abstract": "Kisah tentang perjuangan seorang ibu yang menjual pakaian dalam untuk mendukung pendidikan anak-anaknya. Cerita ini penuh dengan inspirasi, pengorbanan, dan cinta tanpa batas.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Asma Nadia adalah seorang penulis dan aktivis perempuan Indonesia. Lahir pada 26 Maret 1972, ia dikenal melalui karya-karyanya yang berfokus pada isu-isu perempuan dan keagamaan. Buku-bukunya sering kali memberikan inspirasi dan motivasi kepada pembacanya.",
+        "details": {
+          "total_pages": 304,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9786022914982",
+          "publication_date": "1 Maret 2017",
+          "publisher": "Asma Nadia Publishing House"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39d"
+        },
+        "author": "Pramoedya Ananta Toer",
+        "title": "Rumah Kaca",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=rumah%20kaca%20Pramoedya%20Ananta%20Toer",
+        "abstract": "Novel terakhir dalam Tetralogi Buru, menggambarkan akhir perjalanan Minke dan bagaimana ia menghadapi berbagai tantangan dan pengkhianatan dalam perjuangannya untuk keadilan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Pramoedya Ananta Toer adalah seorang penulis Indonesia yang terkenal dengan karya-karyanya yang menggambarkan sejarah dan kehidupan sosial Indonesia. Ia lahir pada 6 Februari 1925 di Blora, Jawa Tengah, dan menghabiskan sebagian besar hidupnya menulis, meskipun menghadapi berbagai penindasan politik. Karya-karyanya termasuk Tetralogi Buru yang terkenal, di antaranya adalah 'Bumi Manusia', 'Anak Semua Bangsa', 'Jejak Langkah', dan 'Rumah Kaca'.",
+        "details": {
+          "total_pages": 551,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789799731259",
+          "publication_date": "1 Januari 1988",
+          "publisher": "Hasta Mitra"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39e"
+        },
+        "author": "Dee Lestari",
+        "title": "Aroma Karsa",
+        "genre": "Fiksi Ilmiah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=aroma%20karsa",
+        "abstract": "Kisah tentang Jati Wesi, seorang pemuda dengan indera penciuman yang luar biasa, yang terlibat dalam pencarian rahasia besar yang tersembunyi dalam aroma. Novel ini penuh dengan misteri dan petualangan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Dee Lestari, nama pena dari Dewi Lestari, adalah seorang penulis, penyanyi, dan penulis lagu Indonesia yang lahir pada 20 Januari 1976. Dee mulai dikenal publik dengan serial novelnya yang berjudul 'Supernova'. Selain itu, ia juga terkenal dengan novel-novel seperti 'Perahu Kertas' dan 'Aroma Karsa'.",
+        "details": {
+          "total_pages": 724,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9786022914739",
+          "publication_date": "1 Maret 2018",
+          "publisher": "Bentang Pustaka"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e39f"
+        },
+        "author": "A. Fuadi",
+        "title": "Anak Rantau",
+        "genre": "Drama",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=anak%20rantau",
+        "abstract": "Kisah tentang Hepi, seorang pemuda yang kembali ke kampung halamannya setelah bertahun-tahun merantau. Novel ini menggambarkan proses penemuan diri dan makna kebersamaan keluarga.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "A. Fuadi, atau Ahmad Fuadi, adalah seorang penulis, jurnalis, dan aktivis Indonesia. Lahir pada 30 Desember 1972, Fuadi dikenal luas melalui trilogi novelnya yang berjudul 'Negeri 5 Menara', 'Ranah 3 Warna', dan 'Rantau 1 Muara'.",
+        "details": {
+          "total_pages": 400,
+          "age_range": "16+",
+          "format_book": "Paperback",
+          "ISBN": "9786022913473",
+          "publication_date": "1 Juli 2017",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a0"
+        },
+        "author": "Leila S. Chudori",
+        "title": "9 dari Nadira",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=9%20dari%20nadira",
+        "abstract": "Kisah tentang Nadira, seorang jurnalis yang menghadapi berbagai tantangan dalam hidupnya. Novel ini menggambarkan perjalanan emosionalnya dan pencarian makna hidup.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Leila S. Chudori adalah seorang penulis, jurnalis, dan editor Indonesia. Lahir pada 12 Desember 1962, Leila dikenal dengan karya-karyanya yang mengangkat tema sejarah, sosial, dan politik di Indonesia. Beberapa novelnya yang terkenal adalah 'Pulang' dan 'Laut Bercerita'.",
+        "details": {
+          "total_pages": 299,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789799109676",
+          "publication_date": "1 September 2009",
+          "publisher": "Kepustakaan Populer Gramedia"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a1"
+        },
+        "author": "Ika Natassa",
+        "title": "Critical Eleven",
+        "genre": "Romansa",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=critical%20eleven",
+        "abstract": "Kisah tentang Ale dan Anya yang bertemu dalam penerbangan dan bagaimana hubungan mereka berkembang dengan cepat dalam 11 menit pertama. Novel ini penuh dengan emosi dan refleksi tentang cinta.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Ika Natassa adalah seorang penulis Indonesia yang lahir pada 25 Desember 1980. Ia dikenal sebagai penulis novel-novel roman modern yang populer, seperti 'Critical Eleven', 'Twivortiare', dan 'Antologi Rasa'. Sebelum menjadi penulis penuh waktu, Ika bekerja sebagai seorang banker.",
+        "details": {
+          "total_pages": 344,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9786022911240",
+          "publication_date": "1 April 2015",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a2"
+        },
+        "author": "Iwan Setyawan",
+        "title": "Ibuk",
+        "genre": "Drama",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=Iwan%20Setyawan%20ibuk",
+        "abstract": "Kisah tentang kehidupan seorang ibu yang sederhana namun penuh cinta. Novel ini menggambarkan pengorbanan dan kekuatan seorang ibu dalam membesarkan anak-anaknya.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Iwan Setyawan adalah seorang penulis dan mantan eksekutif perusahaan yang lahir di Batu, Jawa Timur, pada 12 Desember 1974. Kisah hidupnya yang menginspirasi dituangkan dalam berbagai buku, termasuk '9 Summers 10 Autumns', yang telah diadaptasi menjadi film.",
+        "details": {
+          "total_pages": 324,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9786022914432",
+          "publication_date": "1 Januari 2012",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a3"
+        },
+        "author": "Agustinus Wibowo",
+        "title": "Titik Nol",
+        "genre": "Travel",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=Agustinus%20Wibowo%20titik%20nol",
+        "abstract": "Perjalanan spiritual dan fisik Agustinus Wibowo melintasi berbagai negara di Asia. Kisah ini penuh dengan petualangan, refleksi, dan pencarian makna hidup.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Agustinus Wibowo adalah seorang penulis dan fotografer Indonesia yang terkenal dengan kisah-kisah perjalanannya yang mendalam dan reflektif. Lahir pada 8 Agustus 1981 di Lumajang, Jawa Timur, Agustinus telah menulis beberapa buku perjalanan, termasuk 'Titik Nol' dan 'Garis Batas'.",
+        "details": {
+          "total_pages": 552,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789792262088",
+          "publication_date": "1 April 2013",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a4"
+        },
+        "author": "Tere Liye",
+        "title": "Bintang",
+        "genre": "Fiksi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=bintang%20tere%20liye",
+        "abstract": "Kisah petualangan Raib, Seli, dan Ali dalam dunia paralel. Novel ini penuh dengan aksi, misteri, dan pelajaran tentang persahabatan dan keberanian.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Tere Liye adalah nama pena dari Darwis, seorang penulis Indonesia yang lahir pada 21 Mei 1979. Ia dikenal dengan karya-karyanya yang memadukan unsur petualangan, fantasi, dan nilai-nilai kehidupan. Beberapa novel terkenalnya antara lain 'Hafalan Shalat Delisa', 'Rindu', dan 'Bintang'.",
+        "details": {
+          "total_pages": 400,
+          "age_range": "12+",
+          "format_book": "Paperback",
+          "ISBN": "9786020330401",
+          "publication_date": "1 Agustus 2017",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a5"
+        },
+        "author": "Ayu Utami",
+        "title": "Larung",
+        "genre": "Sastra",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=Ayu%20Utami%20larung&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=",
+        "abstract": "Kelanjutan dari Saman, novel ini menggali lebih dalam tentang kehidupan para tokohnya yang penuh dengan liku-liku politik dan cinta. Ceritanya penuh dengan refleksi sosial dan politik.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Ayu Utami adalah seorang penulis dan jurnalis Indonesia yang lahir pada 21 November 1968. Ia dikenal sebagai salah satu pendiri Majalah Matra dan penggerak sastra Indonesia modern. Novelnya, 'Saman', mendapatkan banyak penghargaan dan membuka jalan bagi kebangkitan sastra feminis di Indonesia.",
+        "details": {
+          "total_pages": 400,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789799349256",
+          "publication_date": "1 September 2001",
+          "publisher": "Kepustakaan Populer Gramedia"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a6"
+        },
+        "author": "Mira W.",
+        "title": "Cinta Sepanjang Amazon",
+        "genre": "Romansa",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=cinta%20sepanjang%20amazon",
+        "abstract": "Kisah tentang petualangan cinta yang terjadi di sepanjang sungai Amazon. Novel ini penuh dengan romansa dan ketegangan, menggambarkan kekuatan cinta yang mampu menghadapi segala rintangan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Mira W. adalah seorang penulis terkenal Indonesia yang lahir pada 13 September 1951. Dikenal dengan karya-karya roman yang penuh emosi, Mira W. telah menulis puluhan novel yang sebagian besar telah diadaptasi menjadi film dan sinetron.",
+        "details": {
+          "total_pages": 348,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9786020338476",
+          "publication_date": "1 Januari 2004",
+          "publisher": "Gramedia Pustaka Utama"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a7"
+        },
+        "author": "Abdullah Gymnastiar",
+        "title": "Manajemen Qalbu",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=buku%20manajemen%20qalbu%20abdullah%20gymnastiar&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=",
+        "abstract": "Buku ini membahas tentang manajemen hati dalam perspektif Islam, menawarkan panduan untuk mengelola emosi dan spiritualitas sehari-hari dengan bijaksana.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Abdullah Gymnastiar, lebih dikenal sebagai Aa Gym, adalah seorang ulama dan pendakwah Indonesia yang lahir pada 29 Januari 1962. Ia dikenal dengan konsep Manajemen Qalbu yang mengajarkan cara mengelola hati dan perasaan dalam kehidupan sehari-hari.",
+        "details": {
+          "total_pages": 300,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9789790770813",
+          "publication_date": "1 Februari 2002",
+          "publisher": "MQ Publishing"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a8"
+        },
+        "author": "Hamka",
+        "title": "Tafsir Al-Azhar",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=tafsir%20al-azhar%20hamka",
+        "abstract": "Tafsir Al-Azhar adalah karya monumental Hamka yang membahas tafsir Al-Qur'an dengan pendekatan yang mudah dipahami dan relevan dengan kehidupan sehari-hari.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Hamka, atau Haji Abdul Malik Karim Amrullah, adalah seorang ulama, sastrawan, dan filsuf Indonesia yang lahir pada 17 Februari 1908. Selain sebagai penulis 'Tafsir Al-Azhar', Hamka juga dikenal dengan novel-novelnya yang legendaris seperti 'Tenggelamnya Kapal van der Wijck' dan 'Di Bawah Lindungan Ka'bah'.",
+        "details": {
+          "total_pages": 11112,
+          "age_range": "All Ages",
+          "format_book": "Hardcover",
+          "ISBN": "9786023135478",
+          "publication_date": "1 Januari 1970",
+          "publisher": "Pustaka Panjimas"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3a9"
+        },
+        "author": "Quraish Shihab",
+        "title": "Tafsir Al-Mishbah",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=tafsir%20al-mishbah%20quraish%20shihab",
+        "abstract": "Tafsir Al-Mishbah memberikan penjelasan mendalam tentang ayat-ayat Al-Qur'an, membantu pembaca memahami pesan dan konteksnya dengan lebih baik.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Quraish Shihab adalah seorang cendekiawan Muslim Indonesia, ulama, dan penulis yang lahir pada 16 Februari 1944. Ia adalah mantan Menteri Agama Indonesia dan dikenal dengan karya-karyanya yang mendalam tentang tafsir Al-Qur'an, termasuk 'Tafsir Al-Mishbah'.",
+        "details": {
+          "total_pages": 9280,
+          "age_range": "All Ages",
+          "format_book": "Hardcover",
+          "ISBN": "9786024246036",
+          "publication_date": "1 Januari 2000",
+          "publisher": "Lentera Hati"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3aa"
+        },
+        "author": "Harun Yahya",
+        "title": "Keajaiban Al-Qur'an",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=keajaiban%20al-quran%20harun%20yahya",
+        "abstract": "Buku ini membahas berbagai keajaiban ilmiah dan historis yang terkandung dalam Al-Qur'an, menunjukkan bahwa kitab suci ini adalah mukjizat dari Allah.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Harun Yahya, nama pena dari Adnan Oktar, adalah seorang penulis dan pemikir Muslim asal Turki yang lahir pada 2 Februari 1956. Ia dikenal dengan karya-karyanya yang membahas tentang bukti-bukti ilmiah dalam Al-Qur'an dan kritik terhadap teori evolusi.",
+        "details": {
+          "total_pages": 244,
+          "age_range": "All Ages",
+          "format_book": "Paperback",
+          "ISBN": "9786022010158",
+          "publication_date": "1 Maret 2001",
+          "publisher": "Cakrawala Publishing"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3ab"
+        },
+        "author": "Karen Armstrong",
+        "title": "Muhammad: A Prophet for Our Time",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=muhammad%20karen%20armstrong",
+        "abstract": "Biografi Muhammad yang mendalam ini memberikan gambaran tentang kehidupan dan perjuangan Nabi Muhammad serta relevansinya di zaman modern.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Karen Armstrong adalah seorang penulis dan akademisi Inggris yang lahir pada 14 November 1944. Ia dikenal sebagai penulis buku-buku tentang agama dan sejarah agama, termasuk 'A History of God' dan 'Muhammad: A Prophet for Our Time'.",
+        "details": {
+          "total_pages": 256,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9780061155779",
+          "publication_date": "1 Mei 2007",
+          "publisher": "HarperOne"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3ac"
+        },
+        "author": "Abu Hamid Al-Ghazali",
+        "title": "Ihya Ulumuddin",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=ihya%20ulumuddin%20abu%20hamid%20al-ghazali",
+        "abstract": "Karya klasik ini membahas tentang berbagai aspek kehidupan spiritual dan praktik keagamaan dalam Islam, menjadi panduan penting bagi umat Muslim.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Abu Hamid Al-Ghazali adalah seorang filsuf, teolog, dan cendekiawan Muslim dari Persia yang lahir pada 1058. Ia dikenal sebagai salah satu pemikir Islam terbesar sepanjang masa dan menulis banyak karya penting, termasuk 'Ihya Ulumuddin'.",
+        "details": {
+          "total_pages": 3488,
+          "age_range": "All Ages",
+          "format_book": "Hardcover",
+          "ISBN": "9786023830090",
+          "publication_date": "1 Januari 2003",
+          "publisher": "Pustaka Nasional"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3ad"
+        },
+        "author": "Nouman Ali Khan",
+        "title": "Revive Your Heart",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=revive%20your%20heart%20nouman%20ali%20khan",
+        "abstract": "Buku ini menawarkan refleksi dan nasihat untuk memperkuat iman dan spiritualitas, membantu pembaca menjalani kehidupan yang lebih bermakna.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Nouman Ali Khan adalah seorang pembicara publik, ulama, dan penulis asal Amerika yang dikenal dengan karya-karyanya dalam mengajarkan Al-Qur'an dan Islam melalui pendekatan yang mudah dipahami. Ia adalah pendiri Bayyinah Institute, sebuah lembaga pendidikan Islam.",
+        "details": {
+          "total_pages": 192,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9789672420490",
+          "publication_date": "1 Oktober 2017",
+          "publisher": "Tertib Publishing"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3ae"
+        },
+        "author": "Abdurrahman Wahid",
+        "title": "Islamku, Islam Anda, Islam Kita",
+        "genre": "Agama Islam",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=islamku%20islam%20anda%20islam%20kita",
+        "abstract": "Buku ini membahas tentang pluralisme dalam Islam, menekankan pentingnya toleransi dan dialog antar umat beragama.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Abdurrahman Wahid, yang akrab dipanggil Gus Dur, adalah tokoh Muslim Indonesia, presiden keempat Indonesia, dan seorang ulama terkemuka. Ia dikenal karena pandangan pluralis dan usahanya dalam mempromosikan toleransi antar umat beragama di Indonesia.",
+        "details": {
+          "total_pages": 344,
+          "age_range": "15+",
+          "format_book": "Paperback",
+          "ISBN": "9789793681993",
+          "publication_date": "1 Januari 2006",
+          "publisher": "The Wahid Institute"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3af"
+        },
+        "author": "Thomas L. Friedman",
+        "title": "The World Is Flat",
+        "genre": "Ekonomi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=the%20world%20is%20flat",
+        "abstract": "Friedman mengeksplorasi bagaimana globalisasi dan perkembangan teknologi telah meratakan dunia, memberikan peluang dan tantangan baru dalam ekonomi global.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Thomas L. Friedman adalah seorang kolumnis, penulis, dan jurnalis pemenang Penghargaan Pulitzer asal Amerika Serikat. Ia dikenal karena karya-karyanya yang mengulas isu-isu global, ekonomi, dan lingkungan.",
+        "details": {
+          "total_pages": 672,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9780374292881",
+          "publication_date": "5 April 2005",
+          "publisher": "Farrar, Straus and Giroux"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b0"
+        },
+        "author": "Yuval Noah Harari",
+        "title": "Sapiens: A Brief History of Humankind",
+        "genre": "Sejarah",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=sapiens%20yuval%20noah%20harari",
+        "abstract": "Harari mengulas sejarah manusia dari zaman purba hingga era modern, mengungkapkan bagaimana Homo sapiens berhasil mendominasi planet ini.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Yuval Noah Harari adalah seorang sejarawan, filsuf, dan penulis asal Israel. Ia dikenal luas melalui buku-bukunya yang membahas sejarah dan masa depan umat manusia, termasuk 'Sapiens', 'Homo Deus', dan '21 Lessons for the 21st Century'.",
+        "details": {
+          "total_pages": 443,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9780062316094",
+          "publication_date": "4 Februari 2015",
+          "publisher": "Harper"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b1"
+        },
+        "author": "Robert Kiyosaki",
+        "title": "Rich Dad Poor Dad",
+        "genre": "Keuangan",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=rich%20dad%20poor%20dad",
+        "abstract": "Buku ini memberikan panduan tentang literasi keuangan dan investasi, berdasarkan pengalaman pribadi Kiyosaki dengan dua figur ayah yang berbeda.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Robert Kiyosaki adalah seorang pengusaha, investor, dan penulis asal Amerika Serikat. Ia dikenal melalui bukunya 'Rich Dad Poor Dad' yang telah menginspirasi banyak orang untuk memahami pentingnya literasi keuangan dan investasi.",
+        "details": {
+          "total_pages": 336,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9781612680194",
+          "publication_date": "1 April 2017",
+          "publisher": "Plata Publishing"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b2"
+        },
+        "author": "Dale Carnegie",
+        "title": "How to Win Friends and Influence People",
+        "genre": "Pengembangan Diri",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=how%20to%20win%20friends%20and%20influence%20people",
+        "abstract": "Panduan klasik tentang membangun hubungan yang baik dengan orang lain dan meningkatkan keterampilan sosial untuk kesuksesan pribadi dan profesional.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Dale Carnegie adalah seorang penulis dan pembicara asal Amerika Serikat yang terkenal dengan buku-buku dan kursus-kursusnya dalam pengembangan pribadi, khususnya dalam hal membangun hubungan yang baik dan efektif dengan orang lain.",
+        "details": {
+          "total_pages": 291,
+          "age_range": "All Ages",
+          "format_book": "Paperback",
+          "ISBN": "9780671027032",
+          "publication_date": "1 Oktober 1998",
+          "publisher": "Pocket Books"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b3"
+        },
+        "author": "Stephen R. Covey",
+        "title": "The 7 Habits of Highly Effective People",
+        "genre": "Pengembangan Diri",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=the%207%20habits%20of%20highly%20effective%20people",
+        "abstract": "Buku ini menawarkan prinsip-prinsip untuk pengembangan pribadi dan profesional yang berfokus pada kebiasaan yang dapat membantu mencapai efektivitas tinggi.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Stephen R. Covey adalah seorang penulis, pembicara, dan konsultan asal Amerika Serikat yang terkenal melalui bukunya 'The 7 Habits of Highly Effective People', yang menjadi salah satu buku paling berpengaruh dalam bidang pengembangan diri.",
+        "details": {
+          "total_pages": 381,
+          "age_range": "All Ages",
+          "format_book": "Paperback",
+          "ISBN": "9780743269513",
+          "publication_date": "15 November 2004",
+          "publisher": "Free Press"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b4"
+        },
+        "author": "Daniel Kahneman",
+        "title": "Thinking, Fast and Slow",
+        "genre": "Psikologi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=thinking%20fast%20and%20slow",
+        "abstract": "Kahneman mengeksplorasi dua sistem pemikiran manusia—cepat dan lambat—dan bagaimana keduanya mempengaruhi pengambilan keputusan dan perilaku kita.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Daniel Kahneman adalah seorang psikolog dan ekonom asal Israel-Amerika, peraih Nobel Ekonomi. Ia terkenal melalui karyanya tentang teori prospek dan pengambilan keputusan di bawah ketidakpastian.",
+        "details": {
+          "total_pages": 499,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9780374533557",
+          "publication_date": "1 Oktober 2013",
+          "publisher": "Farrar, Straus and Giroux"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66acb4fb4426d6f29785e3b5"
+        },
+        "author": "Malcolm Gladwell",
+        "title": "Outliers: The Story of Success",
+        "genre": "Psikologi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=outliers%20malcolm%20gladwell",
+        "abstract": "Gladwell mengupas faktor-faktor yang berperan dalam keberhasilan individu, mengungkap bahwa kesuksesan seringkali bergantung pada kesempatan dan lingkungan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "author_bio": "Malcolm Gladwell adalah seorang jurnalis, penulis, dan pembicara asal Kanada. Ia dikenal karena buku-bukunya yang menganalisis faktor-faktor psikologis dan sosiologis yang mempengaruhi kesuksesan individu.",
+        "details": {
+          "total_pages": 309,
+          "age_range": "18+",
+          "format_book": "Paperback",
+          "ISBN": "9780316017930",
+          "publication_date": "1 Juni 2011",
+          "publisher": "Little, Brown and Company"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3b6" },
+        "author": "Elon Musk",
+        "author_bio": "Elon Musk adalah seorang pengusaha, penemu, dan tokoh bisnis yang dikenal sebagai pendiri dan CEO Tesla Motors, SpaceX, serta beberapa perusahaan lainnya. Lahir di Pretoria, Afrika Selatan, pada tahun 1971, Musk telah menjadi salah satu tokoh paling berpengaruh dalam teknologi dan inovasi modern.",
+        "title": "Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=elon%20musk%20tesla%20spacex",
+        "abstract": "Biografi Elon Musk ini mengungkapkan perjalanan inovatifnya dalam menciptakan Tesla, SpaceX, dan perusahaan-perusahaan lainnya yang mengubah dunia.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 400,
+          "age_range": "Dewasa",
+          "format": "Paperback",
+          "ISBN": "9780062301239",
+          "publication_date": "2015-05-19",
+          "publisher": "HarperCollins"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3b7" },
+        "author": "Walter Isaacson",
+        "author_bio": "Walter Isaacson adalah seorang penulis biografi terkenal dan mantan eksekutif media. Dia dikenal luas karena karya-karyanya yang mendalam tentang tokoh-tokoh penting seperti Steve Jobs, Albert Einstein, dan Benjamin Franklin.",
+        "title": "Steve Jobs",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=steve%20jobs%20walter%20isaacson",
+        "abstract": "Biografi resmi Steve Jobs yang memberikan wawasan mendalam tentang kehidupan dan pemikiran pendiri Apple ini, menampilkan perjalanan inovasi dan kreativitasnya.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 656,
+          "age_range": "Dewasa",
+          "format": "Hardcover",
+          "ISBN": "9781451648539",
+          "publication_date": "2011-10-24",
+          "publisher": "Simon & Schuster"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3b8" },
+        "author": "Nelson Mandela",
+        "author_bio": "Nelson Mandela adalah seorang pejuang kemerdekaan Afrika Selatan yang terkenal, presiden pertama Afrika Selatan yang dipilih secara demokratis, dan pemenang Hadiah Nobel Perdamaian. Dia lahir pada tahun 1918 dan dikenal karena perjuangannya melawan apartheid.",
+        "title": "Long Walk to Freedom",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=long%20walk%20to%20freedom",
+        "abstract": "Autobiografi Nelson Mandela ini menceritakan perjalanan hidupnya dari masa kecil di desa kecil hingga menjadi presiden Afrika Selatan dan simbol perjuangan melawan apartheid.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 768,
+          "age_range": "Dewasa",
+          "format": "Paperback",
+          "ISBN": "9780316548182",
+          "publication_date": "1995-11-01",
+          "publisher": "Little, Brown and Company"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3b9" },
+        "author": "Michelle Obama",
+        "author_bio": "Michelle Obama adalah seorang pengacara, penulis, dan mantan Ibu Negara Amerika Serikat. Sebagai istri Barack Obama, dia dikenal karena advokasi hak-hak perempuan, pendidikan, dan gaya hidup sehat.",
+        "title": "Becoming",
+        "genre": "Biografi",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=becoming%20michelle%20obama",
+        "abstract": "Memoar Michelle Obama yang inspiratif ini menceritakan perjalanan hidupnya dari Chicago hingga Gedung Putih, berbagi pengalaman pribadi dan perjuangannya.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 448,
+          "age_range": "Dewasa",
+          "format": "Hardcover",
+          "ISBN": "9781524763138",
+          "publication_date": "2018-11-13",
+          "publisher": "Crown Publishing Group"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3ba" },
+        "author": "Simon Sinek",
+        "author_bio": "Simon Sinek adalah seorang penulis, pembicara motivasi, dan konsultan kepemimpinan. Dia dikenal karena konsep 'Start with Why', yang mendorong individu dan organisasi untuk menemukan tujuan mereka yang mendasar.",
+        "title": "Start with Why",
+        "genre": "Bisnis",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=start%20with%20why",
+        "abstract": "Sinek mengungkapkan pentingnya menemukan dan memahami 'mengapa' dalam segala hal yang kita lakukan, untuk mencapai kesuksesan yang lebih besar dalam bisnis dan kehidupan.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 256,
+          "age_range": "Dewasa",
+          "format": "Paperback",
+          "ISBN": "9781591846444",
+          "publication_date": "2009-10-29",
+          "publisher": "Penguin Books"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3bb" },
+        "author": "Ray Dalio",
+        "author_bio": "Ray Dalio adalah pendiri Bridgewater Associates, salah satu hedge fund terbesar di dunia. Dia adalah seorang investor terkenal dan penulis buku 'Principles', yang menguraikan prinsip-prinsip hidup dan bekerja yang telah membantu kesuksesannya.",
+        "title": "Principles: Life and Work",
+        "genre": "Bisnis",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=principles%20ray%20dalio",
+        "abstract": "Dalio berbagi prinsip-prinsip yang telah membantunya mencapai kesuksesan sebagai investor dan pendiri Bridgewater Associates, salah satu hedge fund terbesar di dunia.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 592,
+          "age_range": "Dewasa",
+          "format": "Hardcover",
+          "ISBN": "9781501124020",
+          "publication_date": "2017-09-19",
+          "publisher": "Simon & Schuster"
+        }
+      },
+      {
+        "_id": { "$oid": "66acb4fb4426d6f29785e3bc" },
+        "author": "Tim Ferriss",
+        "author_bio": "Tim Ferriss adalah seorang penulis, podcaster, dan investor yang terkenal dengan bukunya 'The 4-Hour Workweek'. Dia sering berbicara tentang optimisasi hidup, produktivitas, dan gaya hidup minimalis.",
+        "title": "The 4-Hour Workweek",
+        "genre": "Bisnis",
+        "purchase_link": "https://www.tokopedia.com/search?st=product&q=the%204-hour%20workweek",
+        "abstract": "Ferriss menawarkan strategi untuk mengurangi waktu kerja dan meningkatkan produktivitas, memungkinkan pembaca untuk hidup lebih bebas dan menikmati hidup.",
+        "image_url": "",
+        "price": "Rp. 84.150",
+        "details": {
+          "total_pages": 416,
+          "age_range": "Dewasa",
+          "format": "Paperback",
+          "ISBN": "9780307465351",
+          "publication_date": "2009-12-15",
+          "publisher": "Crown Publishing Group"
+        }
+      } 
+]
+
+  
+  
+  

@@ -1,0 +1,53 @@
+*{
+    font-family: Montserrat;
+}
+body{
+    background-color: #F5F7F8;
+}
+#main{
+    background-color: #667BC6;
+    border-radius: 5px;
+    padding: 20px;
+    color: #F5EDED;
+}
+
+#filter{
+    background-color: #F5F7F8;
+    color: #353535;
+}
+
+#bookTable{
+    background-color: #F5F7F8;
+    border-radius: 5px;
+}
+
+.detailsButton{
+    background-color: #6EACDA;
+}
+
+
+/* style for details page */
+#mainDetails{
+    background-color: #667BC6;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+/* style for login page */
+#login_background{
+    background-color: #667BC6;
+}
+
+#loginPage{
+    min-height: 100vh;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#loginForm{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+

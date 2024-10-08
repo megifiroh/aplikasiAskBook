@@ -1,0 +1,122 @@
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchBooks();
+
+        const searchButton = document.getElementById('searchButton');
+            searchButton.addEventListener('click', () => {
+                const searchInput = document.getElementById('searchInput').value;
+                const selectedAuthor = document.getElementById('authorDropdown').value;
+                const selectedCategory = document.getElementById('categoryDropdown').value;
+                fetchBooks(searchInput, selectedAuthor, selectedCategory);
+            });
+
+        const resetButton = document.getElementById('resetButton');
+            resetButton.addEventListener('click', ()=>{
+                document.getElementById('searchInput').value = '';
+                document.getElementById('authorDropdown').value = '';
+                document.getElementById('categoryDropdown').value = '';
+                fetchBooks('');
+            })
+        
+            const sortHighestButton = document.getElementById('sortHighest');
+                sortHighestButton.addEventListener('click', () => {
+                    const searchInput = document.getElementById('searchInput').value;
+                    const selectedAuthor = document.getElementById('authorDropdown').value;
+                    const selectedCategory = document.getElementById('categoryDropdown').value;
+                    fetchBooks(searchInput, selectedAuthor, selectedCategory, 'highest');
+                });
+
+            const sortLowestButton = document.getElementById('sortLowest');
+                sortLowestButton.addEventListener('click', () => {
+                    const searchInput = document.getElementById('searchInput').value;
+                    const selectedAuthor = document.getElementById('authorDropdown').value;
+                    const selectedCategory = document.getElementById('categoryDropdown').value;
+                    fetchBooks(searchInput, selectedAuthor, selectedCategory, 'lowest');
+                });
+    });
+
+    async function fetchBooks(searchTerm = '', author = '', genre = '', sort = '', page = 1, limit = 10) {
+        try {
+            const url = new URL('/books', window.location.origin);
+            if (searchTerm) {
+                url.searchParams.append('title', searchTerm);
+            }
+            if (author) {
+                url.searchParams.append('author', author);
+            }
+            if (genre) {
+                url.searchParams.append('genre', genre);
+            }
+            if (sort) {
+                url.searchParams.append('sort', sort);
+            }
+            url.searchParams.append('page', page);
+            url.searchParams.append('limit', limit);
+
+            const response = await fetch(url);
+            const { books, totalPages, currentPage } = await response.json();
+
+            const tableBody = document.querySelector('#bookTable tbody');
+            tableBody.innerHTML = '';
+
+            books.forEach((book, index) => {
+                const row = document.createElement('tr');
+                
+                const numberCell = document.createElement('td');
+                numberCell.textContent = index + 1 + (page - 1) * limit;
+                row.appendChild(numberCell);
+
+                const titleCell = document.createElement('td');
+                titleCell.textContent = book.title;
+                row.appendChild(titleCell);
+
+                const abstractCell = document.createElement('td');
+                abstractCell.textContent = book.abstract;
+                row.appendChild(abstractCell);
+
+                const authorCell = document.createElement('td');
+                authorCell.textContent = book.author;
+                row.appendChild(authorCell);
+
+                const genreCell = document.createElement('td');
+                genreCell.textContent = book.genre;
+                row.appendChild(genreCell);
+
+                const actionButton = document.createElement('td');
+                const actionLink = document.createElement('a');
+                actionLink.href = `/books/${book._id}`;
+                actionLink.textContent = 'Details';
+                actionLink.classList.add('btn', 'detailsButton');
+                actionButton.appendChild(actionLink);
+                row.appendChild(actionButton);
+
+                tableBody.appendChild(row);
+            });
+                 
+            updatePaginationControls(totalPages, currentPage, searchTerm, author, genre, sort);
+            
+            
+        } catch (error) {
+            console.error('Error fetching books:', error);
+        }
+    }
+
+    function updatePaginationControls(totalPages, currentPage, searchTerm, author, genre, sort) {
+        const paginationContainer = document.querySelector('#pagination');
+        paginationContainer.innerHTML = 'Page: ';
+
+        for (let i = 1; i <= totalPages; i++) {
+            const pageButton = document.createElement('button');
+            pageButton.textContent = i;
+            pageButton.classList.add('btn', 'btn-secondary', 'm-1');
+            if (i === currentPage) {
+                pageButton.classList.add('btn-primary');
+            }
+            pageButton.addEventListener('click', () => {
+                fetchBooks(searchTerm, author, genre, sort, i);
+            });
+            paginationContainer.appendChild(pageButton);
+        }
+    }
+
+</script>

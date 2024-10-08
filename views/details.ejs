@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Details</title>
+</head>
+<body>
+    <div class="container mt-1" id="mainDetails">
+        <div class="container m-1">
+            <a href="/" class="btn btn-danger">Go back</a>
+        </div>
+        <br>
+        <div class="row justify-content-evenly">
+            <div class="col-5 card text-center d-flex flex-column p-3">
+                <div class="book_img mb-3">
+                    <% if (book.image_url === "") { %>
+                        <img src="/book_img/no_preview.png" alt="" class="img-fluid">    
+                    <% } %>
+                    <img src="<%= book.image_url %>" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-6 card d-flex flex-column p-3">
+                <div class="flex-grow-1">
+                    <div class="row justify-content-between">
+                        <div class="col-9">
+                            <h1><b><%= book.title %></b></h1>
+                            <h5>By <%= book.author %></h5>
+                        </div>
+                        <div class="col-3">
+                            <h4 style="color: grey; font-family: 'Courier New', Courier, monospace;"><b><%= book.price %></b></h4>
+                        </div>
+                        
+                        <hr>
+
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link active" id="summary-tab" data-bs-toggle="tab" href="#summary" role="tab">Summary</a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" id="details-tab" data-bs-toggle="tab" href="#details" role="tab">Details</a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" id="author-bio-tab" data-bs-toggle="tab" href="#author-bio" role="tab">Author Bio</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content mt-3" id="myTabContent">
+                            <div class="tab-pane fade show active" id="summary" role="tabpanel">
+                                <p>Genre: <%= book.genre %></p>
+                                <p><%= book.abstract %></p>
+                            </div>
+                            <div class="tab-pane fade" id="details" role="tabpanel">
+                                <table class="table">
+                                    <tr>
+                                        <td>Total Pages</td>
+                                        <td><%= book.details.total_pages %></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Age Range</td>
+                                        <td><%= book.details.age_range %></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Format</td>
+                                        <td><%= book.details.format %></td>
+                                    </tr>
+                                    <tr>
+                                        <td>ISBN</td>
+                                        <td><%= book.details.isbn %></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Publication Date</td>
+                                        <td><%= book.details.publication_date %></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Publisher</td>
+                                        <td><%= book.details.publisher %></td>
+                                    </tr>
+                                </table>
+                                
+                            </div>
+                            <div class="tab-pane fade" id="author-bio" role="tabpanel">
+                                <p>Author: <%= book.author %></p>
+                                <p><%= book.author_bio %></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-auto text-center">
+                    <a href="<%= book.purchase_link %>" class="btn btn-primary">Purchase</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>
